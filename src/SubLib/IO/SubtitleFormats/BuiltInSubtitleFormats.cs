@@ -50,7 +50,8 @@ internal static class BuiltInSubtitleFormats {
         new SubtitleFormatKaraokeLyricsVKT(),
         new SubtitleFormatKaraokeLyricsLRC(),
         new SubtitleFormatAdobeEncoreDVD(),
-        new SubtitleFormatFABSubtitler()
+        new SubtitleFormatFABSubtitler(),
+	new SubtitleFormatSAMI()
 	};
 	
 	internal static SubtitleFormat[] SubtitleFormats {

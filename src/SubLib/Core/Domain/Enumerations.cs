@@ -97,6 +97,9 @@ public enum SubtitleType {
     /// <summary>Karaoke Lyrics LRC subtitle type.</summary>
     KaraokeLyricsLRC,
 
+    /// <summary>Sami subtitle type.</summary>
+    SAMI,
+
     /// <summary>Adobe Encore DVD subtitle type.</summary>
 	AdobeEncoreDVD,
 	
