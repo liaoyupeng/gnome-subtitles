@@ -143,7 +143,8 @@ internal class SubtitleParser {
 				if (matchLastIndex > lastIndex)
 					lastIndex = matchLastIndex;
 					
-				headerParser(match, properties);
+				if (headerParser != null)
+					headerParser(match, properties);
 			}
 		}
 		return lastIndex;
