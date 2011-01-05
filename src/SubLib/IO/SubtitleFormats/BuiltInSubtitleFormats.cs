@@ -49,7 +49,7 @@ internal static class BuiltInSubtitleFormats {
         new SubtitleFormatPowerDivX(),
         new SubtitleFormatKaraokeLyricsVKT(),
         new SubtitleFormatKaraokeLyricsLRC(),
-	new SubtitleFormatSAMI(),
+        new SubtitleFormatSAMI(),
         new SubtitleFormatAdobeEncoreDVD()
 	};
 	
